@@ -1,0 +1,11 @@
+*.class
+Team2_Final/.classpath
+*.project
+*.jsdtscope
+*.tern-project
+*.prefs
+settings
+Team2_Final/.settings/org.eclipse.wst.common.component
+Team2_Final/.settings/org.eclipse.wst.jsdt.ui.superType.name
+Team2_Final/.settings/org.eclipse.wst.jsdt.ui.superType.container
+Team2_Final/.settings/org.eclipse.wst.common.project.facet.core.xml
